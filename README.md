@@ -4,13 +4,7 @@ I build full-stack web platforms and AI/ML-powered automation, mostly with
 TypeScript/Next.js/Node on the product side and Python/PyTorch on the ML
 side.
 
-Currently an Associate Software Engineer at **Web7Labs**, owning the
-full-stack codebase (Next.js, Express, PostgreSQL, Prisma) for a production
-Wealthtech platform. Fresh Software Engineering graduate (COMSATS University
-Lahore, 2022–2026) — won 1st place in COMSATS' FYP competition for
-**MAVISE**, a multimodal audio-visual speech enhancement project
-(CNN+BiLSTM+Transformer, PyTorch/FastAPI).
-Based in Lahore, Pakistan — open to collaborations.
+Currently an Associate Software Engineer at **Web7Labs**.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abdullahnaseer02@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abnaseer)
